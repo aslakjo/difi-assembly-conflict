@@ -1,0 +1,15 @@
+bin/
+packages/
+obj/
+*.user
+*.suo
+_ReSharper.*
+*.pidb
+*.userprefs
+ProductAssemblyInfo.cs
+AssemblyFileVersion.cs
+TestResults/
+Web.confiig
+.DS_Store
+.vs
+
