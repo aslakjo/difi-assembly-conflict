@@ -6,9 +6,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(
-                Difi.Oppslagstjeneste.Klient.Miljø.FunksjoneltTestmiljøVerifikasjon1
-            );
+            Console.WriteLine(Difi.Oppslagstjeneste.Klient.Miljø.FunksjoneltTestmiljøVerifikasjon1);
         }
     }
 }
